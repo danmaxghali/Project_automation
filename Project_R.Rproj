@@ -1,0 +1,16 @@
+Version: 1.0
+ProjectId: 66e1037a-fe2b-4dd8-9e56-00b10a40515b
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+ProjectName: Project_R
