@@ -7,6 +7,9 @@ library(bio3d)
 in_2rh1 <- get.pdb("2rh1", path = "~/Biology/Project/Project_R/Script data/PDB")
 in_2rh1 <- read.pdb(in_2rh1)
 # in_2rh1 <- as.data.table(in_2rh1$atom)
+
+options(bio3d.dssp.path = "/usr/bin/mkdssp")
+system("/usr/bin/mkdssp")
 ss_struc <- dssp(in_2rh1)
 
 
