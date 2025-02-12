@@ -24,11 +24,36 @@ residue_selection <- filtered_pdb$resno %in% residues
 coords <- filtered_pdb[residue_selection, c("x","y","z")]
 
 
+# Get coordinates straight from spreadsheet
+library(readxl)
+
+# Read in spreadsheet
+b2ar_extra <- read.table("~/Biology/Project/MorphoJ/Inputs/B2AR_Extra.txt", header = FALSE, sep = " ")
+
+landmarks <- readland.tps(b2ar_extra, specID = TRUE)
+
+# Assign column names manually
+num_landmarks <- ncol(b2ar_extra_df) / 3 
+colnames(b2ar_extra_df) <- unlist(lapply(1:num_landmarks, function(i) paste0(c("x", "y", "z"), i)))
+
+# Convert to matrix
+b2ar_extra_matrix <- as.matrix(b2ar_extra_df)
+
+# Make numeric
+b2ar_extra_matrix <- apply(b2ar_extra_matrix, 2, as.numeric)
+
+str(b2ar_extra_matrix)
 
 
-#Geometric Morphometrics
+
+
+
+# Geometric Morphometrics
 
 library(geomorph)
+
+
+# 
 
 
 
