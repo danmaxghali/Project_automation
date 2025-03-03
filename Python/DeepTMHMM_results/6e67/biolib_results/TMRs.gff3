@@ -1,0 +1,18 @@
+##gff-version 3
+# C:\Users\Student\OneDrive Length: 457
+# C:\Users\Student\OneDrive Number of predicted TMRs: 7
+C:\Users\Student\OneDrive	outside	1	4				
+C:\Users\Student\OneDrive	TMhelix	5	30				
+C:\Users\Student\OneDrive	inside	31	42				
+C:\Users\Student\OneDrive	TMhelix	43	64				
+C:\Users\Student\OneDrive	outside	65	79				
+C:\Users\Student\OneDrive	TMhelix	80	101				
+C:\Users\Student\OneDrive	inside	102	121				
+C:\Users\Student\OneDrive	TMhelix	122	143				
+C:\Users\Student\OneDrive	outside	144	169				
+C:\Users\Student\OneDrive	TMhelix	170	191				
+C:\Users\Student\OneDrive	inside	192	388				
+C:\Users\Student\OneDrive	TMhelix	389	409				
+C:\Users\Student\OneDrive	outside	410	420				
+C:\Users\Student\OneDrive	TMhelix	421	441				
+C:\Users\Student\OneDrive	inside	442	457				
