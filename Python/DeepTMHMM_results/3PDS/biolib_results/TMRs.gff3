@@ -1,0 +1,18 @@
+##gff-version 3
+# 3PDS_A Length: 442
+# 3PDS_A Number of predicted TMRs: 7
+3PDS_A	outside	1	4				
+3PDS_A	TMhelix	5	30				
+3PDS_A	inside	31	42				
+3PDS_A	TMhelix	43	64				
+3PDS_A	outside	65	79				
+3PDS_A	TMhelix	80	101				
+3PDS_A	inside	102	121				
+3PDS_A	TMhelix	122	143				
+3PDS_A	outside	144	169				
+3PDS_A	TMhelix	170	191				
+3PDS_A	inside	192	374				
+3PDS_A	TMhelix	375	395				
+3PDS_A	outside	396	406				
+3PDS_A	TMhelix	407	427				
+3PDS_A	inside	428	442				

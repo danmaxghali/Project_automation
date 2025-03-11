@@ -1,0 +1,18 @@
+##gff-version 3
+# 3NY8_A Length: 439
+# 3NY8_A Number of predicted TMRs: 7
+3NY8_A	outside	1	2				
+3NY8_A	TMhelix	3	27				
+3NY8_A	inside	28	39				
+3NY8_A	TMhelix	40	61				
+3NY8_A	outside	62	76				
+3NY8_A	TMhelix	77	98				
+3NY8_A	inside	99	118				
+3NY8_A	TMhelix	119	140				
+3NY8_A	outside	141	166				
+3NY8_A	TMhelix	167	188				
+3NY8_A	inside	189	371				
+3NY8_A	TMhelix	372	392				
+3NY8_A	outside	393	403				
+3NY8_A	TMhelix	404	424				
+3NY8_A	inside	425	439				
