@@ -1,0 +1,20 @@
+##gff-version 3
+# 6N48_A Length: 454
+# 6N48_A Number of predicted TMRs: 8
+6N48_A	inside	1	173				
+6N48_A	TMhelix	174	183				
+6N48_A	outside	184	184				
+6N48_A	TMhelix	185	201				
+6N48_A	inside	202	213				
+6N48_A	TMhelix	214	238				
+6N48_A	outside	239	250				
+6N48_A	TMhelix	251	272				
+6N48_A	inside	273	291				
+6N48_A	TMhelix	292	312				
+6N48_A	outside	313	340				
+6N48_A	TMhelix	341	361				
+6N48_A	inside	362	386				
+6N48_A	TMhelix	387	410				
+6N48_A	outside	411	418				
+6N48_A	TMhelix	419	438				
+6N48_A	inside	439	454				

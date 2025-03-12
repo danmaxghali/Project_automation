@@ -1,0 +1,18 @@
+##gff-version 3
+# 3P0G_A Length: 284
+# 3P0G_A Number of predicted TMRs: 7
+3P0G_A	outside	1	11				
+3P0G_A	TMhelix	12	36				
+3P0G_A	inside	37	47				
+3P0G_A	TMhelix	48	70				
+3P0G_A	outside	71	85				
+3P0G_A	TMhelix	86	107				
+3P0G_A	inside	108	127				
+3P0G_A	TMhelix	128	148				
+3P0G_A	outside	149	175				
+3P0G_A	TMhelix	176	198				
+3P0G_A	inside	199	214				
+3P0G_A	TMhelix	215	235				
+3P0G_A	outside	236	246				
+3P0G_A	TMhelix	247	267				
+3P0G_A	inside	268	284				

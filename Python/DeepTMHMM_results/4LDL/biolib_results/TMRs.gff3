@@ -1,0 +1,20 @@
+##gff-version 3
+# 4LDL_A Length: 454
+# 4LDL_A Number of predicted TMRs: 8
+4LDL_A	inside	1	173				
+4LDL_A	TMhelix	174	183				
+4LDL_A	outside	184	184				
+4LDL_A	TMhelix	185	201				
+4LDL_A	inside	202	213				
+4LDL_A	TMhelix	214	238				
+4LDL_A	outside	239	250				
+4LDL_A	TMhelix	251	272				
+4LDL_A	inside	273	291				
+4LDL_A	TMhelix	292	312				
+4LDL_A	outside	313	340				
+4LDL_A	TMhelix	341	361				
+4LDL_A	inside	362	386				
+4LDL_A	TMhelix	387	410				
+4LDL_A	outside	411	418				
+4LDL_A	TMhelix	419	438				
+4LDL_A	inside	439	454				

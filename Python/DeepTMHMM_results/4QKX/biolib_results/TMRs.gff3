@@ -1,0 +1,18 @@
+##gff-version 3
+# 4QKX_A Length: 454
+# 4QKX_A Number of predicted TMRs: 7
+4QKX_A	outside	1	176				
+4QKX_A	TMhelix	177	201				
+4QKX_A	inside	202	212				
+4QKX_A	TMhelix	213	235				
+4QKX_A	outside	236	250				
+4QKX_A	TMhelix	251	272				
+4QKX_A	inside	273	292				
+4QKX_A	TMhelix	293	313				
+4QKX_A	outside	314	340				
+4QKX_A	TMhelix	341	361				
+4QKX_A	inside	362	386				
+4QKX_A	TMhelix	387	407				
+4QKX_A	outside	408	418				
+4QKX_A	TMhelix	419	439				
+4QKX_A	inside	440	454				

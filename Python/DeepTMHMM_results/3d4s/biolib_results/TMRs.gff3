@@ -1,18 +1,18 @@
 ##gff-version 3
-# 3d4s_A Length: 439
-# 3d4s_A Number of predicted TMRs: 7
-3d4s_A	outside	1	2				
-3d4s_A	TMhelix	3	27				
-3d4s_A	inside	28	39				
-3d4s_A	TMhelix	40	61				
-3d4s_A	outside	62	76				
-3d4s_A	TMhelix	77	98				
-3d4s_A	inside	99	118				
-3d4s_A	TMhelix	119	140				
-3d4s_A	outside	141	166				
-3d4s_A	TMhelix	167	188				
-3d4s_A	inside	189	371				
-3d4s_A	TMhelix	372	392				
-3d4s_A	outside	393	403				
-3d4s_A	TMhelix	404	424				
-3d4s_A	inside	425	439				
+# 3D4S_A Length: 439
+# 3D4S_A Number of predicted TMRs: 7
+3D4S_A	outside	1	2				
+3D4S_A	TMhelix	3	27				
+3D4S_A	inside	28	39				
+3D4S_A	TMhelix	40	61				
+3D4S_A	outside	62	76				
+3D4S_A	TMhelix	77	98				
+3D4S_A	inside	99	118				
+3D4S_A	TMhelix	119	140				
+3D4S_A	outside	141	166				
+3D4S_A	TMhelix	167	188				
+3D4S_A	inside	189	371				
+3D4S_A	TMhelix	372	392				
+3D4S_A	outside	393	403				
+3D4S_A	TMhelix	404	424				
+3D4S_A	inside	425	439				

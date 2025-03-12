@@ -1,0 +1,18 @@
+##gff-version 3
+# 6OBA_A Length: 440
+# 6OBA_A Number of predicted TMRs: 7
+6OBA_A	outside	1	2				
+6OBA_A	TMhelix	3	28				
+6OBA_A	inside	29	40				
+6OBA_A	TMhelix	41	62				
+6OBA_A	outside	63	77				
+6OBA_A	TMhelix	78	99				
+6OBA_A	inside	100	119				
+6OBA_A	TMhelix	120	141				
+6OBA_A	outside	142	167				
+6OBA_A	TMhelix	168	189				
+6OBA_A	inside	190	372				
+6OBA_A	TMhelix	373	393				
+6OBA_A	outside	394	404				
+6OBA_A	TMhelix	405	425				
+6OBA_A	inside	426	440				

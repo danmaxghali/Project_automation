@@ -1,8 +1,8 @@
 ##gff-version 3
 # 5D5A_A Length: 442
 # 5D5A_A Number of predicted TMRs: 7
-5D5A_A	outside	1	4				
-5D5A_A	TMhelix	5	30				
+5D5A_A	outside	1	2				
+5D5A_A	TMhelix	3	30				
 5D5A_A	inside	31	42				
 5D5A_A	TMhelix	43	64				
 5D5A_A	outside	65	79				

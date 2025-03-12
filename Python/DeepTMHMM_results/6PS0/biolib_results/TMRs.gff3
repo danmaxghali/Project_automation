@@ -1,0 +1,18 @@
+##gff-version 3
+# 6PS0_A Length: 440
+# 6PS0_A Number of predicted TMRs: 7
+6PS0_A	outside	1	2				
+6PS0_A	TMhelix	3	28				
+6PS0_A	inside	29	40				
+6PS0_A	TMhelix	41	62				
+6PS0_A	outside	63	77				
+6PS0_A	TMhelix	78	99				
+6PS0_A	inside	100	119				
+6PS0_A	TMhelix	120	141				
+6PS0_A	outside	142	167				
+6PS0_A	TMhelix	168	189				
+6PS0_A	inside	190	372				
+6PS0_A	TMhelix	373	393				
+6PS0_A	outside	394	404				
+6PS0_A	TMhelix	405	425				
+6PS0_A	inside	426	440				

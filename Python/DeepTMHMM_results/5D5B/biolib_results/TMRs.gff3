@@ -1,0 +1,18 @@
+##gff-version 3
+# 5D5B_A Length: 442
+# 5D5B_A Number of predicted TMRs: 7
+5D5B_A	outside	1	2				
+5D5B_A	TMhelix	3	30				
+5D5B_A	inside	31	42				
+5D5B_A	TMhelix	43	64				
+5D5B_A	outside	65	79				
+5D5B_A	TMhelix	80	101				
+5D5B_A	inside	102	121				
+5D5B_A	TMhelix	122	143				
+5D5B_A	outside	144	169				
+5D5B_A	TMhelix	170	191				
+5D5B_A	inside	192	374				
+5D5B_A	TMhelix	375	395				
+5D5B_A	outside	396	406				
+5D5B_A	TMhelix	407	427				
+5D5B_A	inside	428	442				
