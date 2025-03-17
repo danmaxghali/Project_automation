@@ -1,4 +1,18 @@
 ##gff-version 3
-# 7BZ2_A Length: 198
-# 7BZ2_A Number of predicted TMRs: 0
-7BZ2_A	inside	1	198				
+# 7bz2_R Length: 285
+# 7bz2_R Number of predicted TMRs: 7
+7bz2_R	outside	1	4				
+7bz2_R	TMhelix	5	29				
+7bz2_R	inside	30	40				
+7bz2_R	TMhelix	41	63				
+7bz2_R	outside	64	78				
+7bz2_R	TMhelix	79	100				
+7bz2_R	inside	101	120				
+7bz2_R	TMhelix	121	141				
+7bz2_R	outside	142	167				
+7bz2_R	TMhelix	168	190				
+7bz2_R	inside	191	219				
+7bz2_R	TMhelix	220	240				
+7bz2_R	outside	241	252				
+7bz2_R	TMhelix	253	271				
+7bz2_R	inside	272	285				

@@ -1,0 +1,18 @@
+##gff-version 3
+# 2vt4_A Length: 274
+# 2vt4_A Number of predicted TMRs: 7
+2vt4_A	outside	1	2				
+2vt4_A	TMhelix	3	27				
+2vt4_A	inside	28	38				
+2vt4_A	TMhelix	39	62				
+2vt4_A	outside	63	76				
+2vt4_A	TMhelix	77	98				
+2vt4_A	inside	99	116				
+2vt4_A	TMhelix	117	140				
+2vt4_A	outside	141	166				
+2vt4_A	TMhelix	167	189				
+2vt4_A	inside	190	207				
+2vt4_A	TMhelix	208	231				
+2vt4_A	outside	232	238				
+2vt4_A	TMhelix	239	259				
+2vt4_A	inside	260	274				

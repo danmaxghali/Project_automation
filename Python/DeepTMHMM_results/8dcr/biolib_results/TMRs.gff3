@@ -1,0 +1,18 @@
+##gff-version 3
+# 8dcr_R Length: 275
+# 8dcr_R Number of predicted TMRs: 7
+8dcr_R	outside	1	2				
+8dcr_R	TMhelix	3	23				
+8dcr_R	inside	24	34				
+8dcr_R	TMhelix	35	60				
+8dcr_R	outside	61	72				
+8dcr_R	TMhelix	73	94				
+8dcr_R	inside	95	112				
+8dcr_R	TMhelix	113	136				
+8dcr_R	outside	137	162				
+8dcr_R	TMhelix	163	185				
+8dcr_R	inside	186	209				
+8dcr_R	TMhelix	210	233				
+8dcr_R	outside	234	240				
+8dcr_R	TMhelix	241	261				
+8dcr_R	inside	262	275				

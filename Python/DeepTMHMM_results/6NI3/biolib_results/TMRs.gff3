@@ -1,4 +1,18 @@
 ##gff-version 3
-# 6NI3_A Length: 234
-# 6NI3_A Number of predicted TMRs: 0
-6NI3_A	inside	1	234				
+# 6ni3_R Length: 284
+# 6ni3_R Number of predicted TMRs: 7
+6ni3_R	outside	1	4				
+6ni3_R	TMhelix	5	29				
+6ni3_R	inside	30	40				
+6ni3_R	TMhelix	41	63				
+6ni3_R	outside	64	78				
+6ni3_R	TMhelix	79	100				
+6ni3_R	inside	101	120				
+6ni3_R	TMhelix	121	142				
+6ni3_R	outside	143	165				
+6ni3_R	TMhelix	166	188				
+6ni3_R	inside	189	217				
+6ni3_R	TMhelix	218	238				
+6ni3_R	outside	239	249				
+6ni3_R	TMhelix	250	270				
+6ni3_R	inside	271	284				

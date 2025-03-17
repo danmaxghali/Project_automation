@@ -1,0 +1,18 @@
+##gff-version 3
+# 5a8e_A Length: 285
+# 5a8e_A Number of predicted TMRs: 7
+5a8e_A	outside	1	6				
+5a8e_A	TMhelix	7	31				
+5a8e_A	inside	32	42				
+5a8e_A	TMhelix	43	64				
+5a8e_A	outside	65	80				
+5a8e_A	TMhelix	81	102				
+5a8e_A	inside	103	122				
+5a8e_A	TMhelix	123	143				
+5a8e_A	outside	144	170				
+5a8e_A	TMhelix	171	193				
+5a8e_A	inside	194	222				
+5a8e_A	TMhelix	223	243				
+5a8e_A	outside	244	253				
+5a8e_A	TMhelix	254	274				
+5a8e_A	inside	275	285				

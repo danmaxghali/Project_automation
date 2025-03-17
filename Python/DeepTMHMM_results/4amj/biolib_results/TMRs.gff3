@@ -1,0 +1,18 @@
+##gff-version 3
+# 4amj_A Length: 287
+# 4amj_A Number of predicted TMRs: 7
+4amj_A	outside	1	10				
+4amj_A	TMhelix	11	35				
+4amj_A	inside	36	46				
+4amj_A	TMhelix	47	70				
+4amj_A	outside	71	84				
+4amj_A	TMhelix	85	106				
+4amj_A	inside	107	124				
+4amj_A	TMhelix	125	148				
+4amj_A	outside	149	174				
+4amj_A	TMhelix	175	197				
+4amj_A	inside	198	220				
+4amj_A	TMhelix	221	244				
+4amj_A	outside	245	251				
+4amj_A	TMhelix	252	272				
+4amj_A	inside	273	287				

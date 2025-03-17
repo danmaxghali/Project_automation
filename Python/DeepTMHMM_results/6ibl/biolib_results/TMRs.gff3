@@ -1,0 +1,20 @@
+##gff-version 3
+# 6ibl_A Length: 397
+# 6ibl_A Number of predicted TMRs: 8
+6ibl_A	inside	1	109				
+6ibl_A	TMhelix	110	119				
+6ibl_A	outside	120	120				
+6ibl_A	TMhelix	121	133				
+6ibl_A	inside	134	144				
+6ibl_A	TMhelix	145	166				
+6ibl_A	outside	167	182				
+6ibl_A	TMhelix	183	204				
+6ibl_A	inside	205	224				
+6ibl_A	TMhelix	225	245				
+6ibl_A	outside	246	272				
+6ibl_A	TMhelix	273	295				
+6ibl_A	inside	296	330				
+6ibl_A	TMhelix	331	351				
+6ibl_A	outside	352	362				
+6ibl_A	TMhelix	363	383				
+6ibl_A	inside	384	397				

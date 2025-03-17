@@ -1,18 +1,18 @@
 ##gff-version 3
-# 2RH1_A Length: 442
-# 2RH1_A Number of predicted TMRs: 7
-2RH1_A	outside	1	2				
-2RH1_A	TMhelix	3	30				
-2RH1_A	inside	31	42				
-2RH1_A	TMhelix	43	64				
-2RH1_A	outside	65	79				
-2RH1_A	TMhelix	80	101				
-2RH1_A	inside	102	121				
-2RH1_A	TMhelix	122	143				
-2RH1_A	outside	144	169				
-2RH1_A	TMhelix	170	191				
-2RH1_A	inside	192	374				
-2RH1_A	TMhelix	375	395				
-2RH1_A	outside	396	406				
-2RH1_A	TMhelix	407	427				
-2RH1_A	inside	428	442				
+# C:\Users\Student\OneDrive Length: 442
+# C:\Users\Student\OneDrive Number of predicted TMRs: 7
+C:\Users\Student\OneDrive	outside	1	4				
+C:\Users\Student\OneDrive	TMhelix	5	30				
+C:\Users\Student\OneDrive	inside	31	42				
+C:\Users\Student\OneDrive	TMhelix	43	64				
+C:\Users\Student\OneDrive	outside	65	79				
+C:\Users\Student\OneDrive	TMhelix	80	101				
+C:\Users\Student\OneDrive	inside	102	121				
+C:\Users\Student\OneDrive	TMhelix	122	143				
+C:\Users\Student\OneDrive	outside	144	169				
+C:\Users\Student\OneDrive	TMhelix	170	191				
+C:\Users\Student\OneDrive	inside	192	374				
+C:\Users\Student\OneDrive	TMhelix	375	395				
+C:\Users\Student\OneDrive	outside	396	406				
+C:\Users\Student\OneDrive	TMhelix	407	427				
+C:\Users\Student\OneDrive	inside	428	442				

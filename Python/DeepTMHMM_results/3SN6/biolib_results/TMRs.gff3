@@ -1,4 +1,20 @@
 ##gff-version 3
-# 3SN6_A Length: 349
-# 3SN6_A Number of predicted TMRs: 0
-3SN6_A	inside	1	349				
+# 3sn6_R Length: 443
+# 3sn6_R Number of predicted TMRs: 8
+3sn6_R	inside	1	160				
+3sn6_R	TMhelix	161	170				
+3sn6_R	outside	171	171				
+3sn6_R	TMhelix	172	188				
+3sn6_R	inside	189	200				
+3sn6_R	TMhelix	201	225				
+3sn6_R	outside	226	237				
+3sn6_R	TMhelix	238	259				
+3sn6_R	inside	260	279				
+3sn6_R	TMhelix	280	301				
+3sn6_R	outside	302	326				
+3sn6_R	TMhelix	327	347				
+3sn6_R	inside	348	376				
+3sn6_R	TMhelix	377	400				
+3sn6_R	outside	401	408				
+3sn6_R	TMhelix	409	428				
+3sn6_R	inside	429	443				

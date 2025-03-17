@@ -1,0 +1,18 @@
+##gff-version 3
+# 2y03_A Length: 288
+# 2y03_A Number of predicted TMRs: 7
+2y03_A	outside	1	9				
+2y03_A	TMhelix	10	34				
+2y03_A	inside	35	45				
+2y03_A	TMhelix	46	67				
+2y03_A	outside	68	83				
+2y03_A	TMhelix	84	105				
+2y03_A	inside	106	125				
+2y03_A	TMhelix	126	146				
+2y03_A	outside	147	173				
+2y03_A	TMhelix	174	196				
+2y03_A	inside	197	221				
+2y03_A	TMhelix	222	242				
+2y03_A	outside	243	253				
+2y03_A	TMhelix	254	274				
+2y03_A	inside	275	288				
